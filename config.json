@@ -1,7 +1,7 @@
 {
     "websocketPort": 1337,
     "mongo": {
-        "url": "",
+        "url": "mongodb://ujuooiif4bndyiz1sd33:d0HIkCv1VZfsWxGUdglm@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bzeuzmuewp7vj59?replicaSet=rs0",
         "collection": "WebSocket"
     },
     "servers": {
